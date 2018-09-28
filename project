@@ -1,0 +1,205 @@
+<!doctype>
+
+<!DOCTYPE html>
+<html>
+<head>
+
+	<title>Final Project</title>
+	<link rel="stylesheet" href="css/finalProject.css" >
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+	<link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.3.1/css/all.css" integrity="sha384-mzrmE5qonljUremFsqc01SB46JvROS7bZs3IO2EmfFsd15uHvIt+Y8vEf7N7fWAU" crossorigin="anonymous">
+	
+<html lang="en">
+<head>
+<title>Aione Framework</title>
+<link rel="stylesheet" type="text/css" href="https://cdn.aioneframework.com/assets/css/aione.min.css" >
+<link rel="stylesheet" href="css/Menu.css" >
+</head>
+<body>
+
+
+
+<div class="bg-white p-20 "><p class="ml-80p font-size-20 "> Home/Menu card</p>
+	<p class="ml-50 font-size-20 ">Menu</p> </div>
+<div class="bg-grey bg-lighten-3 ">
+<<br><br><br><br>
+<div class="aione-tabs horizontal align-center layout">
+<div class="nav p-20 bg-white ml-100 mr-100 "><br><br>
+    <div class="bg-red  bg-lighten-2"  class="active"><p class="white ">Beverages</p> </div>
+    <div class="bg-red  bg-lighten-2" data-target="#tab_gravida" class=""><p class="white lighten-2">Starters	 </div>
+    <div class="bg-red  bg-lighten-2" data-target="#tab_sagittarius" class=""><p class="white lighten-2">Mains.Grills </div>
+    <div class="bg-red  bg-lighten-2" data-target="#tab_sulcation" class=""><p class="white lighten-2">Vegetarian</div>
+    <div class=" bg-red  bg-lighten-2" data-target="#tab_acinous" class=""><p class="white lighten-2">Desserts </div><br>
+</div>
+<div class=" Container p-20 bg-white ml-100 mr-100 p-10 "><h3 class="red lighten-1 aione-align-center ">Beverages</h3>
+<br><br>
+
+<div class="ar">
+
+<div class="ac l50 m50 s50 bg-white" > 
+<img style="max-height: 50px;" class="tab-image-active aione-float-left  " src="images/4.png">  
+  <span class="red lighten-1 mt-0" > &nbsp;  Dr. Snapper    <hr style="" class="ml-28p" >  </hr></span><br> <p class="ml-50"><p class="ml-100">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer nec dui pellentesque.</p> 
+  <br><br><br><br><br><br><br>
+
+
+
+
+ <img style="max-height: 50px;" class="tab-image-active aione-float-left " src="images/5.png">  
+  <span class="red lighten-1 mt-0" > &nbsp;  Fantasia    <hr style="" class="ml-28p" >  </hr></span> <br>
+  <p class="ml-50"><p class="ml-100">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer nec dui pellentesque.</p> 
+
+  <br><br><br><br><br>
+
+</div>
+
+<div class="ac l50 m50 s50 bg-white	"> 
+<img style="max-height: 50px;" class="tab-image-active aione-float-left " src="images/6.png">  
+  <span class="red lighten-1 mt-0" > &nbsp;  6up    <hr style="" class="ml-20p" >  </hr></span>
+  <p class="ml-50"><p class="ml-100">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer nec dui pellentesque.</p>  <br><br><br><br><br><br><br>
+  <img style="max-height: 50px;" class="tab-image-active aione-float-left " src="images/7.png">  
+  <span class="red lighten-1 mt-0" > &nbsp;  Hoca Hola <br>	
+
+   </p>   <hr style="" class="ml-20p" >  </hr></span> 
+   <p class="ml-60 black"><spn class="bg-red" >Bubbles </spn>  &nbsp;<span class="bg-red">caffeine</span> <br>
+<p class="ml-50"><p class="ml-100"><br>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer nec dui pellentesque.</p> 
+   <br><br><br><br><br>
+  
+ </div>
+
+</div>
+
+
+
+</div>
+	</div>
+
+</body>
+</html>
+										
+</head>	
+
+<header style="width: 49%;height: 150px;opacity: 0.7;">
+
+
+<h1 style="font-size: 50px;font-family:fantasy;   ;font-weight: bold; color: 
+	 lightblue;text-shadow: 2px 2px 4px red;margin-left: 50px; ">  Blizzard Entertainment </h>
+	 <h2 style="font-size: 25px; color: red; font-style:italic; margin-left: 100px;text-shadow: 3px 3px 10px skyblue;">Named after founder Amar Bose</h2>
+
+	
+
+
+ <header  style="width: 100%; height: 150px;;margin-left:101%;margin-top: -143px;position: relative;">
+<div>
+	<ul>
+		
+	<a  href="https://mail.google.com/mail/u/0/#inbox" target="_blank">
+
+<i style="font-size: 30px; color: skyblue;margin-top: 50px;float: right;margin-right: 100px;" class="fa fa-envelope" aria-hidden="true"></i></a>
+
+	<a href ="javascript:window.close();" _blank">	
+<i style="font-size: 30px;color: skyblue; margin-top: 
+50px; margin-left: 400px;"	class="fa fa-window-close" aria-hidden="true"></i> </a>
+<a href="Contactus.html" target="_self">
+<i style="font-size: 30px;color:skyblue;" class="fa fa-phone-square" aria-hidden="true"></i></a>
+<a href="https://www.google.com/" target="_blank">
+<i style="font-size: 30px;color: skyblue;margin-top:-4%; margin-left: 350px;" class="fa fa-search" aria-hidden="true"></i> </a>	
+
+
+	</ul>
+	
+</div>
+</header>
+
+
+	</header>
+<body style="background-repeat: no-repeat; background-size: cover;width: 100%;opacity: 1;" background="imges/29.jpg">
+
+	<div style="width: 100%;height:100%;overflow: auto;opacity: 0.8;">
+
+
+
+		<span>
+		<h1 style="font-size: 40px; color: skyblue;text-shadow: 5px 5px 10px #FF0000">NEW LAUNCHES
+
+
+	</h1></span>
+		<div style="height: 100%; width: 30%;float: right;overflow: auto;">
+
+<video autoplay muted loop id="myVideo" style="max-width: 
+	100%; max-height: 100%;">
+  <source src="vedio.mp4" type="video/mp4">
+
+</video>
+
+<video autoplay muted loop id="myVideo" style="max-width: 
+	100%; max-height: 100%;">
+  <source src="vedio2.mp4" type="video/mp4">
+
+</video>
+		
+		</div>
+
+
+		<div style=" width: 40%;height: 70%;margin-left:30%;position:absolute;overflow: auto; ">
+
+
+
+
+			<ul style="font-size: 35px; color:skyblue;; text-shadow: 0 0 9px red, 0 0 9px red;padding: 5px;margin-top:0%; margin-left: 25px;	">
+<a style="color: skyblue;"  href="#" target="_self" class="abc"  >News</a>
+  <a ref="#" target="_self" class="abc" >Images</a>
+  <a ref="#" target="_self" class="abc" >Vedios</a>
+  <a ref="#" target="_self" class="abc" >About</a>
+
+</ul>
+
+<h1 style="font-size: 30px; color:yellow; text-shadow: 4px 4px blue;"><br> Start with an Elevator Pitch </h1> 
+
+<p style="overflow:auto; font-size: 25px; color: skyblue;">Begin the company description section with a paragraph that captures all of the vital 	 information about your company.<br> Imagine you are giving an elevator pitch about your company and want to express the key characteristics in just a few sentences.<br> </p>
+<Br>
+
+
+	</div>
+
+
+		<div style="width: 30%; height: 50%;overflow: auto; font-style: bold;">
+
+
+			
+<p style="font-size: 25px;color: skyblue;">
+	
+	
+ The last thing you should concern yourself with is writing lengthy plans or long-winded executive summaries. 
+ It's time to kill the traditional business plan in favor of a realistic, practical tool: 
+
+		</div>
+
+		<div style="width: 30%; height:50%;overflow: hidden;">
+
+			<a href ="Login.html" target="_self">
+			<button class="button" style="background-color:; height: 50px;width: 100px;padding: 10px; border-radius: 20px;border: 4px solid lightblue;color:red; " type="submit">LOGIN</button></a>
+			<br><br>
+			<a href="SingUp.html" target="_self">
+			<button class="button" style="background-color:;margin-left: 100px; height: 50px;width: 100px;padding: 10px; border-radius: 20px;color: red; border: 4px solid lightblue;" type="submit">SIGN UP</button></a>
+			<br><br>
+
+	<a href="Feedback.html" target="_self">
+			<button class="button" style="background-color:;color: red; height: 50px;width: 100px;padding: 10px; margin-left: 200px; border-radius: 20px;border: 4px solid lightblue;" type="submit">FEEDBACK</button></a>
+
+
+		</div>
+
+
+
+</div>
+
+
+<footer style="width: 100%;height: 70px; ">
+	
+	<br><br>
+<p style="font-size: 20px;color: red;text-align: center;margin-top:1%;">COPYRIGHT © COLOUR_GREEN | HTML5 | CSS | DESIGN BY PARAMJEET SINGH </p>
+
+</footer>
+</body>
+
+</html>
